@@ -1,3 +1,9 @@
+# MD Files
+*.MD
+
+# metadata
+.metadata/
+
 # Compiled class file
 *.class
 
